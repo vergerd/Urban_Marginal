@@ -1,3 +1,4 @@
+package modele;
 
 /**
  * Gestion des joueurs
@@ -41,7 +42,7 @@ public class Joueur extends Objet {
 	/**
 	 * vie restante du joueur
 	 */
-	private int vie ;
+	private int vie ; 
 	/**
 	 * tourné vers la gauche (0) ou vers la droite (1)
 	 */

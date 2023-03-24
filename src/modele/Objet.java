@@ -1,3 +1,4 @@
+package modele;
 
 /**
  * Informations communes à tous les objets (joueurs, murs, boules)
